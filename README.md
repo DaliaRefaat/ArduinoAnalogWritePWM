@@ -35,5 +35,7 @@ Include the custom PWM function in your Arduino Uno projects.
 Refer to the provided examples and documentation for guidance on implementation.
 Explore and modify the code to suit your specific needs.
 
+https://github.com/DaliaRefaat/ArduinoAnalogWritePWM/assets/125277143/f5f304df-0232-4a19-8a5f-97c0f25d74dd
+
 Contributions:
 Contributions are welcome! Feel free to submit pull requests, report issues, or suggest improvements to enhance the functionality and usability of the custom PWM implementation.
