@@ -38,7 +38,11 @@ Explore and modify the code to suit your specific needs.
 
 
 
-https://github.com/DaliaRefaat/ArduinoAnalogWritePWM/assets/125277143/bd1670d5-91b4-431e-9635-543f3bd1d9b7
+
+https://github.com/DaliaRefaat/ArduinoAnalogWritePWM/assets/125277143/ed581b17-d501-42c7-bb05-a3202db3d952
+
+
+
 
 
 Contributions:
